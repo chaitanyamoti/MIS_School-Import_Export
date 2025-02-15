@@ -1,0 +1,31 @@
+id,exam_type,school_class,subject,max_marks
+1,ISE1,Class 10,Political Science,20
+2,ISE2,Class 10,Political Science,20
+3,END,Class 10,Political Science,60
+4,ISE1,Class 9,Economics,20
+5,ISE2,Class 9,Economics,20
+6,END,Class 9,Economics,60
+7,ISE1,Class 8,Computer Science,20
+8,ISE2,Class 8,Computer Science,20
+9,END,Class 8,Computer Science,60
+10,ISE1,Class 7,English,20
+11,ISE2,Class 7,English,20
+12,END,Class 7,English,60
+13,ISE1,Class 6,Geography,20
+14,ISE2,Class 6,Geography,20
+15,END,Class 6,Geography,60
+16,ISE1,Class 5,History,20
+17,ISE2,Class 5,History,20
+18,END,Class 5,History,60
+19,ISE1,Class 4,Biology,20
+20,ISE2,Class 4,Biology,20
+21,END,Class 4,Biology,60
+22,ISE1,Class 3,Chemistry,20
+23,ISE2,Class 3,Chemistry,20
+24,END,Class 3,Chemistry,60
+25,ISE1,Class 2,Physics,20
+26,ISE2,Class 2,Physics,20
+27,END,Class 2,Physics,60
+28,ISE1,Class 1,Mathematics,20
+29,ISE2,Class 1,Mathematics,20
+30,END,Class 1,Mathematics,60

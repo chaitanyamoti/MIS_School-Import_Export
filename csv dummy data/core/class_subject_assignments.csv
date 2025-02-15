@@ -1,0 +1,11 @@
+id,school_class__name,subject__name,teacher__name
+1,Class 1,Mathematics,Dr. Rajeev Kumar
+2,Class 2,Physics,Prof. Aditi Sharma
+3,Class 3,Chemistry,Mr. Suresh Mehta
+4,Class 4,Biology,Mrs. Rina Verma
+5,Class 5,History,Mr. Arun Tiwari
+6,Class 6,Geography,Ms. Priya Singh
+7,Class 7,English,Dr. Mohan Joshi
+8,Class 8,Computer Science,Mrs. Kavita Malhotra
+9,Class 9,Economics,Prof. Ramesh Patel
+10,Class 10,Political Science,Ms. Sneha Dutta

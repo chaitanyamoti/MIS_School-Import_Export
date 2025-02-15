@@ -1,0 +1,11 @@
+id,name,dob,gender,assigned_class__name,hostel_status,bus_facility
+1,Aarav Mehta,2007-05-21,Male,Class 1,True,False
+2,Sneha Sharma,2006-08-15,Female,Class 2,False,True
+3,Rohan Verma,2005-12-03,Male,Class 3,True,False
+4,Ishita Tiwari,2007-07-19,Female,Class 4,False,True
+5,Varun Joshi,2006-10-11,Male,Class 5,True,False
+6,Meenal Agarwal,2005-03-22,Female,Class 6,False,True
+7,Karthik Nair,2007-09-30,Male,Class 7,True,False
+8,Simran Kaur,2006-06-25,Female,Class 8,False,True
+9,Rahul Deshmukh,2005-11-14,Male,Class 9,True,False
+10,Ananya Rao,2007-04-17,Female,Class 10,False,True
